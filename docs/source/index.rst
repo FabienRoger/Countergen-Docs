@@ -27,9 +27,9 @@ Contents
 .. toctree::
    :caption: countergen
 
-   countergen/usage
+   /countergen/usage
 
 .. toctree::
    :caption: countergentorch
 
-   countergen/usage
+   /countergen/usage

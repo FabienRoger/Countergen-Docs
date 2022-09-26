@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Documentation for Countergen
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The repository contains the docs for the `countergen` & `countergentorch` Python modules and is built using readthedocs.io.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Read the docs here: https://countergen-docs.readthedocs.io/en/latest/usage.html
